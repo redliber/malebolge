@@ -11,5 +11,4 @@ func _plugging():
 	plug("limbonaut/limboai")
 	plug("glass-brick/Scene-Manager")
 	plug("Ericdowney/SignalVisualizer")
-
-# godot --headless -s plug.gd install 
+	

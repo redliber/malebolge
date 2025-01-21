@@ -1,0 +1,1 @@
+﻿godot --headless -s plug.gd install 

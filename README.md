@@ -1,1 +1,2 @@
-# malebolge
+# MALEBOLGE
+A first-person story-driven puzzle game with life-simulator and survival elements about a single father working as an insurance agent taking care of his ill daughter whilst faced with the looming threat of a voracious mold and a taunting creature pestering him into an ominous game of hide-and-seek.
